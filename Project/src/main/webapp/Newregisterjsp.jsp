@@ -115,7 +115,8 @@ a.active, a:hover {
 }
 
 section {
-	background: url(bg1.jpg) no-repeat;
+	background: linear-gradient(to bottom, royalblue, white);
+	background-repeat: no-repeat;
 	background-size: cover;
 	height: calc(100vh - 80px);
 }
@@ -340,4 +341,3 @@ input[type="text"], input[type="password"] {
 	</script>
 </body>
 </html>
-
